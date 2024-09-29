@@ -1,0 +1,2 @@
+Para identificar qual interruptor controla cada lâmpada, ligue o primeiro interruptor (A) por 10 minutos, depois desligue-o e ligue o segundo interruptor (B). 
+Em seguida, vá até as lâmpadas: a lâmpada que estiver acesa corresponde ao interruptor B, a lâmpada apagada e quente é controlada pelo interruptor A, e a lâmpada apagada e fria é do interruptor C.
